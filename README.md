@@ -1,7 +1,3 @@
-# TS 메타몽
+# Cheatsheet
 
-### 프로젝트 clone 시 변경 해야 할 것
-
-- ./README.md
-- ./package.json
-- ./.vscode
+npm에 올리기엔 작고 자주 쓰는 코드들의 집합 입니다.
